@@ -1,4 +1,3 @@
-Elevation and Azimuth to Satellite Geo-Stationary
 Python program for calculating the azimuth, elevation and distance to satellite in geo-orbit.
 
 Libraries: PyQt4 , geographiclibc , math.
